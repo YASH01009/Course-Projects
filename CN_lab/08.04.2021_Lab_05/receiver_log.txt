@@ -1,0 +1,144 @@
+Client: connecting to 127.0.0.1
+Message Received: Packet #0 received. (Data: 452)
+Packet #0 received and utilized. (Data: 452)
+Acknowledgement Sent: Packet #0.
+Packet Received: A packet with error.
+Packet Received: A packet with error.
+Packet Received: A packet with error.
+Message Received: Packet #0 received. (Data: 452)
+Message Received: Packet #0 can not be accepted. (Data: 452, w_curr: 1)
+Acknowledgement Sent: Packet #0.
+Message Received: Packet #4 received. (Data: 1073742686)
+Packet #4 received and utilized. (Data: 862)
+Acknowledgement Sent: Packet #4.
+Message Received: Packet #1 received. (Data: 268435931)
+Packet #1 received and utilized. (Data: 475)
+Acknowledgement Sent: Packet #1.
+Packet Received: A packet with error.
+Packet Received: A packet with error.
+Message Received: Packet #2 received. (Data: 536871135)
+Packet #2 received and utilized. (Data: 223)
+Acknowledgement Sent: Packet #2.
+Packet Received: A packet with error.
+Message Received: Packet #3 received. (Data: -1342176725)
+Packet #3 received and utilized. (Data: 555)
+Acknowledgement Sent: Packet #3.
+Packet Received: A packet with error.
+Packet Received: A packet with error.
+Message Received: Packet #5 received. (Data: 1342177530)
+Packet #5 received and utilized. (Data: 250)
+Acknowledgement Sent: Packet #5.
+Message Received: Packet #1 received. (Data: -1879047215)
+Packet #1 received and utilized. (Data: 977)
+Acknowledgement Sent: Packet #1.
+Packet Received: A packet with error.
+Packet Received: A packet with error.
+Packet Received: A packet with error.
+Message Received: Packet #6 received. (Data: 1610613039)
+Packet #6 received and utilized. (Data: 303)
+Acknowledgement Sent: Packet #6.
+Message Received: Packet #7 received. (Data: 1879048488)
+Packet #7 received and utilized. (Data: 296)
+Acknowledgement Sent: Packet #7.
+Message Received: Packet #0 received. (Data: 267)
+Packet #0 received and utilized. (Data: 267)
+Acknowledgement Sent: Packet #0.
+Message Received: Packet #4 received. (Data: -1073741265)
+Packet #4 received and utilized. (Data: 559)
+Acknowledgement Sent: Packet #4.
+Message Received: Packet #5 received. (Data: -805305958)
+Packet #5 received and utilized. (Data: 410)
+Acknowledgement Sent: Packet #5.
+Message Received: Packet #2 received. (Data: -1610612346)
+Packet #2 received and utilized. (Data: 390)
+Acknowledgement Sent: Packet #2.
+Message Received: Packet #6 received. (Data: 1610613400)
+Packet #6 received and utilized. (Data: 664)
+Acknowledgement Sent: Packet #6.
+Message Received: Packet #3 received. (Data: 805306772)
+Packet #3 received and utilized. (Data: 404)
+Acknowledgement Sent: Packet #3.
+Message Received: Packet #7 received. (Data: -268435204)
+Packet #7 received and utilized. (Data: 252)
+Acknowledgement Sent: Packet #7.
+Packet Received: A packet with error.
+Packet Received: A packet with error.
+Message Received: Packet #0 received. (Data: 330)
+Packet #0 received and utilized. (Data: 330)
+Acknowledgement Sent: Packet #0.
+Packet Received: A packet with error.
+Message Received: Packet #1 received. (Data: 268435947)
+Packet #1 received and utilized. (Data: 491)
+Acknowledgement Sent: Packet #1.
+Message Received: Packet #5 received. (Data: 1342177323)
+Packet #5 received and utilized. (Data: 43)
+Acknowledgement Sent: Packet #5.
+Message Received: Packet #2 received. (Data: -1610611914)
+Packet #2 received and utilized. (Data: 822)
+Acknowledgement Sent: Packet #2.
+Message Received: Packet #6 received. (Data: 1610613549)
+Packet #6 received and utilized. (Data: 813)
+Acknowledgement Sent: Packet #6.
+Packet Received: A packet with error.
+Message Received: Packet #3 received. (Data: -1342177176)
+Packet #3 received and utilized. (Data: 104)
+Acknowledgement Sent: Packet #3.
+Packet Received: A packet with error.
+Message Received: Packet #4 received. (Data: -1073740909)
+Packet #4 received and utilized. (Data: 915)
+Acknowledgement Sent: Packet #4.
+Message Received: Packet #1 received. (Data: -1879047439)
+Packet #1 received and utilized. (Data: 753)
+Acknowledgement Sent: Packet #1.
+Message Received: Packet #2 received. (Data: 536871253)
+Packet #2 received and utilized. (Data: 341)
+Acknowledgement Sent: Packet #2.
+Message Received: Packet #7 received. (Data: 1879048962)
+Packet #7 received and utilized. (Data: 770)
+Acknowledgement Sent: Packet #7.
+Message Received: Packet #3 received. (Data: 805307160)
+Packet #3 received and utilized. (Data: 792)
+Acknowledgement Sent: Packet #3.
+Message Received: Packet #0 received. (Data: -2147483091)
+Packet #0 received and utilized. (Data: 557)
+Acknowledgement Sent: Packet #0.
+Message Received: Packet #4 received. (Data: 1073742608)
+Packet #4 received and utilized. (Data: 784)
+Acknowledgement Sent: Packet #4.
+Message Received: Packet #5 received. (Data: 1342178235)
+Packet #5 received and utilized. (Data: 955)
+Acknowledgement Sent: Packet #5.
+Message Received: Packet #4 received. (Data: 1073742608)
+Message Received: Packet #4 can not be accepted. (Data: 1073742608, w_curr: 6)
+Acknowledgement Sent: Packet #4.
+Packet #0, Data: 452
+Packet #1, Data: 475
+Packet #2, Data: 223
+Packet #3, Data: 555
+Packet #4, Data: 862
+Packet #5, Data: 250
+Packet #6, Data: 303
+Packet #7, Data: 296
+Packet #8, Data: 267
+Packet #9, Data: 977
+Packet #10, Data: 390
+Packet #11, Data: 404
+Packet #12, Data: 559
+Packet #13, Data: 410
+Packet #14, Data: 664
+Packet #15, Data: 252
+Packet #16, Data: 330
+Packet #17, Data: 491
+Packet #18, Data: 822
+Packet #19, Data: 104
+Packet #20, Data: 915
+Packet #21, Data: 43
+Packet #22, Data: 813
+Packet #23, Data: 770
+Packet #24, Data: 557
+Packet #25, Data: 753
+Packet #26, Data: 341
+Packet #27, Data: 792
+Packet #28, Data: 784
+Packet #29, Data: 955
+

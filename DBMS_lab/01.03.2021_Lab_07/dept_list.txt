@@ -1,0 +1,2 @@
+Departments's Name: Marketing, Department's Id: 230, Total Salary: 1800
+Departments's Name: Project Management, Department's Id: 120, Total Salary: 2470

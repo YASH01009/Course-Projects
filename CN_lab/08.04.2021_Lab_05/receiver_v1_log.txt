@@ -1,0 +1,170 @@
+Client: connecting to 127.0.0.1
+Message Received: Packet #0 received.
+Packet #0 received and utilized.
+Acknowledgement Lost: Packet #0.
+Message Received: Packet #0 received.
+Acknowledgement Sent: Packet #0.
+Message Received: Packet #1 received.
+Packet #1 received and utilized.
+Acknowledgement Sent: Packet #1.
+Message Received: Packet #2 received.
+Packet #2 received and utilized.
+Acknowledgement Sent: Packet #2 ack contains an error.
+Message Received: Packet #2 received.
+Acknowledgement Sent: Packet #2 ack contains an error.
+Message Received: Packet #2 received.
+Acknowledgement Sent: Packet #2.
+Message Received: Packet #3 received.
+Packet #3 received and utilized.
+Acknowledgement Lost: Packet #3.
+Message Received: Packet #3 received.
+Acknowledgement Sent: Packet #3.
+Message Received: Packet #7 received.
+Packet #7 received and utilized.
+Acknowledgement Sent: Packet #7.
+Message Received: Packet #4 received.
+Packet #4 received and utilized.
+Acknowledgement Sent: Packet #4.
+Message Received: Packet #5 received.
+Packet #5 received and utilized.
+Acknowledgement Sent: Packet #5 ack contains an error.
+Message Received: Packet #5 received.
+Acknowledgement Lost: Packet #5.
+Message Received: Packet #5 received.
+Acknowledgement Sent: Packet #5.
+Message Received: Packet #1 received.
+Packet #1 received and utilized.
+Acknowledgement Sent: Packet #1 ack contains an error.
+Message Received: Packet #6 received.
+Packet #6 received and utilized.
+Acknowledgement Sent: Packet #6.
+Message Received: Packet #0 received.
+Packet #0 received and utilized.
+Acknowledgement Sent: Packet #0.
+Message Received: Packet #1 received.
+Acknowledgement Sent: Packet #1.
+Message Received: Packet #2 received.
+Packet #2 received and utilized.
+Acknowledgement Lost: Packet #2.
+Message Received: Packet #2 received.
+Acknowledgement Sent: Packet #2.
+Message Received: Packet #3 received.
+Packet #3 received and utilized.
+Acknowledgement Lost: Packet #3.
+Message Received: Packet #3 received.
+Acknowledgement Sent: Packet #3.
+Message Received: Packet #7 received.
+Packet #7 received and utilized.
+Acknowledgement Sent: Packet #7 ack contains an error.
+Message Received: Packet #4 received.
+Packet #4 received and utilized.
+Acknowledgement Lost: Packet #4.
+Message Received: Packet #4 received.
+Acknowledgement Sent: Packet #4.
+Message Received: Packet #5 received.
+Packet #5 received and utilized.
+Acknowledgement Sent: Packet #5 ack contains an error.
+Message Received: Packet #5 received.
+Acknowledgement Sent: Packet #5.
+Message Received: Packet #6 received.
+Packet #6 received and utilized.
+Acknowledgement Sent: Packet #6.
+Message Received: Packet #7 received.
+Acknowledgement Lost: Packet #7.
+Message Received: Packet #7 received.
+Acknowledgement Lost: Packet #7.
+Message Received: Packet #7 received.
+Acknowledgement Sent: Packet #7.
+Message Received: Packet #3 received.
+Packet #3 received and utilized.
+Acknowledgement Lost: Packet #3.
+Message Received: Packet #0 received.
+Packet #0 received and utilized.
+Acknowledgement Sent: Packet #0.
+Message Received: Packet #1 received.
+Packet #1 received and utilized.
+Acknowledgement Sent: Packet #1.
+Message Received: Packet #5 received.
+Packet #5 received and utilized.
+Acknowledgement Sent: Packet #5.
+Message Received: Packet #2 received.
+Packet #2 received and utilized.
+Acknowledgement Lost: Packet #2.
+Message Received: Packet #2 received.
+Acknowledgement Lost: Packet #2.
+Message Received: Packet #2 received.
+Acknowledgement Sent: Packet #2.
+Message Received: Packet #3 received.
+Acknowledgement Lost: Packet #3.
+Message Received: Packet #3 received.
+Acknowledgement Lost: Packet #3.
+Message Received: Packet #3 received.
+Acknowledgement Sent: Packet #3.
+Message Received: Packet #4 received.
+Packet #4 received and utilized.
+Acknowledgement Lost: Packet #4.
+Message Received: Packet #4 received.
+Acknowledgement Lost: Packet #4.
+Message Received: Packet #4 received.
+Acknowledgement Sent: Packet #4 ack contains an error.
+Message Received: Packet #4 received.
+Acknowledgement Lost: Packet #4.
+Message Received: Packet #4 received.
+Acknowledgement Sent: Packet #4.
+Message Received: Packet #1 received.
+Packet #1 received and utilized.
+Acknowledgement Sent: Packet #1.
+Message Received: Packet #6 received.
+Packet #6 received and utilized.
+Acknowledgement Sent: Packet #6 ack contains an error.
+Message Received: Packet #6 received.
+Acknowledgement Lost: Packet #6.
+Message Received: Packet #6 received.
+Acknowledgement Sent: Packet #6.
+Message Received: Packet #7 received.
+Packet #7 received and utilized.
+Acknowledgement Sent: Packet #7 ack contains an error.
+Message Received: Packet #7 received.
+Acknowledgement Sent: Packet #7.
+Message Received: Packet #0 received.
+Packet #0 received and utilized.
+Acknowledgement Sent: Packet #0 ack contains an error.
+Message Received: Packet #0 received.
+Acknowledgement Lost: Packet #0.
+Message Received: Packet #0 received.
+Acknowledgement Sent: Packet #0.
+Message Received: Packet #5 received.
+Packet #5 received and utilized.
+Acknowledgement Sent: Packet #5.
+Message Received: Packet #2 received.
+Packet #2 received and utilized.
+Acknowledgement Sent: Packet #2 ack contains an error.
+Message Received: Packet #2 received.
+Acknowledgement Lost: Packet #2.
+Message Received: Packet #2 received.
+Acknowledgement Lost: Packet #2.
+Message Received: Packet #2 received.
+Acknowledgement Sent: Packet #2.
+Message Received: Packet #3 received.
+Packet #3 received and utilized.
+Acknowledgement Lost: Packet #3.
+Message Received: Packet #3 received.
+Acknowledgement Sent: Packet #3 ack contains an error.
+Message Received: Packet #3 received.
+Acknowledgement Sent: Packet #3 ack contains an error.
+Message Received: Packet #3 received.
+Acknowledgement Sent: Packet #3.
+Message Received: Packet #4 received.
+Packet #4 received and utilized.
+Acknowledgement Lost: Packet #4.
+Message Received: Packet #4 received.
+Acknowledgement Lost: Packet #4.
+Message Received: Packet #4 received.
+Acknowledgement Lost: Packet #4.
+Message Received: Packet #4 received.
+Acknowledgement Sent: Packet #4 ack contains an error.
+Message Received: Packet #4 received.
+Acknowledgement Lost: Packet #4.
+Message Received: Packet #4 received.
+Acknowledgement Sent: Packet #4.
+84 34 278 59 259 573 199 394 544 232 383 82 543 373 710 659 200 626 340 643 818 445 615 907 810 906 832 468 468 543 

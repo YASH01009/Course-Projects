@@ -1,0 +1,175 @@
+Server: waiting for connection...
+Server: got connection from 127.0.0.1
+Packet #0, Data: 452
+Packet #1, Data: 475
+Packet #2, Data: 223
+Packet #3, Data: 555
+Packet #4, Data: 862
+Packet #5, Data: 250
+Packet #6, Data: 303
+Packet #7, Data: 296
+Packet #8, Data: 267
+Packet #9, Data: 977
+Packet #10, Data: 390
+Packet #11, Data: 404
+Packet #12, Data: 559
+Packet #13, Data: 410
+Packet #14, Data: 664
+Packet #15, Data: 252
+Packet #16, Data: 330
+Packet #17, Data: 491
+Packet #18, Data: 822
+Packet #19, Data: 104
+Packet #20, Data: 915
+Packet #21, Data: 43
+Packet #22, Data: 813
+Packet #23, Data: 770
+Packet #24, Data: 557
+Packet #25, Data: 753
+Packet #26, Data: 341
+Packet #27, Data: 792
+Packet #28, Data: 784
+Packet #29, Data: 955
+
+Message sent: Packet #0 transferred. (Data: 452)
+Data: 452, packet_ptr: 1.
+Message sent: Packet #1 contains an error.
+Data: 268468699, packet_ptr: 2.
+Message sent: Packet #2 contains an error.
+Data: 536887519, packet_ptr: 3.
+Message sent: Packet #3 contains an error.
+Data: -1342176597, packet_ptr: 4.
+Retransmission: Packet #0 transferred. (Data: 452)
+Packet Acked from the receiver: Packet #0.
+Packet Acked from the receiver: Packet #0.
+Message sent: Packet #4 transferred. (Data: 1073742686)
+Data: 1073742686, packet_ptr: 5.
+Retransmission: Packet #1 transferred. (Data: 268435931)
+Packet Acked from the receiver: Packet #4.
+Packet Acked from the receiver: Packet #1.
+Message sent: Packet #5 contains an error.
+Data: 1343226106, packet_ptr: 6.
+Retransmission: Packet #2 is lost in transmission.
+Retransmission: Packet #2 contains an error.
+Retransmission: Packet #2 transferred. (Data: 536871135)
+Packet Acked from the receiver: Packet #2.
+Message sent: Packet #6 contains an error.
+Data: 1610615087, packet_ptr: 7.
+Retransmission: Packet #3 transferred. (Data: -1342176725)
+Packet Acked from the receiver: Packet #3.
+Message sent: Packet #7 is lost in transmission.
+Data: 1879048488, packet_ptr: 8.
+Message sent: Packet #0 contains an error.
+Data: 2315, packet_ptr: 9.
+Retransmission: Packet #5 is lost in transmission.
+Retransmission: Packet #5 contains an error.
+Retransmission: Packet #5 is lost in transmission.
+Retransmission: Packet #5 transferred. (Data: 1342177530)
+Packet Acked from the receiver: Packet #5.
+Message sent: Packet #1 transferred. (Data: -1879047215)
+Data: -1879047215, packet_ptr: 10.
+Retransmission: Packet #6 is lost in transmission.
+Packet Acked from the receiver: Packet #1.
+Retransmission: Packet #6 contains an error.
+Retransmission: Packet #6 is lost in transmission.
+Retransmission: Packet #6 is lost in transmission.
+Retransmission: Packet #6 contains an error.
+Retransmission: Packet #6 contains an error.
+Retransmission: Packet #6 transferred. (Data: 1610613039)
+Packet Acked from the receiver: Packet #6.
+Message sent: Packet #2 is lost in transmission.
+Data: -1610612346, packet_ptr: 11.
+Retransmission: Packet #7 is lost in transmission.
+Retransmission: Packet #7 is lost in transmission.
+Retransmission: Packet #7 is lost in transmission.
+Retransmission: Packet #7 is lost in transmission.
+Retransmission: Packet #7 is lost in transmission.
+Retransmission: Packet #7 transferred. (Data: 1879048488)
+Packet Acked from the receiver: Packet #7.
+Message sent: Packet #3 is lost in transmission.
+Data: 805306772, packet_ptr: 12.
+Retransmission: Packet #0 is lost in transmission.
+Retransmission: Packet #0 transferred. (Data: 267)
+Packet Acked from the receiver: Packet #0.
+Message sent: Packet #4 transferred. (Data: -1073741265)
+Data: -1073741265, packet_ptr: 13.
+Message sent: Packet #5 transferred. (Data: -805305958)
+Data: -805305958, packet_ptr: 14.
+Retransmission: Packet #2 is lost in transmission.
+Packet Acked from the receiver: Packet #4.
+Packet Acked from the receiver: Packet #5.
+Retransmission: Packet #2 transferred. (Data: -1610612346)
+Packet Acked from the receiver: Packet #2.
+Message sent: Packet #6 transferred. (Data: 1610613400)
+Data: 1610613400, packet_ptr: 15.
+Retransmission: Packet #3 is lost in transmission.
+Packet Acked from the receiver: Packet #6.
+Retransmission: Packet #3 is lost in transmission.
+Retransmission: Packet #3 transferred. (Data: 805306772)
+Packet Acked from the receiver: Packet #3.
+Message sent: Packet #7 is lost in transmission.
+Data: -268435204, packet_ptr: 16.
+Message sent: Packet #0 is lost in transmission.
+Data: 330, packet_ptr: 17.
+Message sent: Packet #1 is lost in transmission.
+Data: 268435947, packet_ptr: 18.
+Message sent: Packet #2 is lost in transmission.
+Data: -1610611914, packet_ptr: 19.
+Retransmission: Packet #7 transferred. (Data: -268435204)
+Packet Acked from the receiver: Packet #7.
+Message sent: Packet #3 contains an error.
+Data: -268435352, packet_ptr: 20.
+Retransmission: Packet #0 contains an error.
+Retransmission: Packet #0 transferred. (Data: 330)
+Packet Acked from the receiver: Packet #0.
+Message sent: Packet #4 contains an error.
+Data: -939523181, packet_ptr: 21.
+Retransmission: Packet #1 transferred. (Data: 268435947)
+Packet Acked from the receiver: Packet #1.
+Message sent: Packet #5 transferred. (Data: 1342177323)
+Data: 1342177323, packet_ptr: 22.
+Retransmission: Packet #2 is lost in transmission.
+Packet Acked from the receiver: Packet #5.
+Retransmission: Packet #2 is lost in transmission.
+Retransmission: Packet #2 is lost in transmission.
+Retransmission: Packet #2 transferred. (Data: -1610611914)
+Packet Acked from the receiver: Packet #2.
+Message sent: Packet #6 transferred. (Data: 1610613549)
+Data: 1610613549, packet_ptr: 23.
+Retransmission: Packet #3 contains an error.
+Packet Acked from the receiver: Packet #6.
+Retransmission: Packet #3 transferred. (Data: -1342177176)
+Packet Acked from the receiver: Packet #3.
+Message sent: Packet #7 is lost in transmission.
+Data: 1879048962, packet_ptr: 24.
+Retransmission: Packet #4 is lost in transmission.
+Retransmission: Packet #4 is lost in transmission.
+Retransmission: Packet #4 contains an error.
+Retransmission: Packet #4 is lost in transmission.
+Retransmission: Packet #4 transferred. (Data: -1073740909)
+Packet Acked from the receiver: Packet #4.
+Message sent: Packet #0 is lost in transmission.
+Data: -2147483091, packet_ptr: 25.
+Message sent: Packet #1 transferred. (Data: -1879047439)
+Data: -1879047439, packet_ptr: 26.
+Message sent: Packet #2 transferred. (Data: 536871253)
+Data: 536871253, packet_ptr: 27.
+Retransmission: Packet #7 is lost in transmission.
+Packet Acked from the receiver: Packet #1.
+Packet Acked from the receiver: Packet #2.
+Retransmission: Packet #7 transferred. (Data: 1879048962)
+Packet Acked from the receiver: Packet #7.
+Message sent: Packet #3 transferred. (Data: 805307160)
+Data: 805307160, packet_ptr: 28.
+Retransmission: Packet #0 transferred. (Data: -2147483091)
+Packet Acked from the receiver: Packet #3.
+Packet Acked from the receiver: Packet #0.
+Message sent: Packet #4 transferred. (Data: 1073742608)
+Data: 1073742608, packet_ptr: 29.
+Message sent: Packet #5 transferred. (Data: 1342178235)
+Data: 1342178235, packet_ptr: 30.
+Retransmission: Packet #4 transferred. (Data: 1073742608)
+Packet Acked from the receiver: Packet #4.
+Packet Acked from the receiver: Packet #5.
+Packet Acked from the receiver: Packet #4.
+Message sent: Signal to end the transmission.
